@@ -4,6 +4,7 @@ html {
 .body {
     display: flex;
     justify-content: center;
+    font-family: 'Figtree' , sans-serif;
     
 }
 .card {
