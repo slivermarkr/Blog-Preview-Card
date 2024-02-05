@@ -3,3 +3,5 @@
 
 ./activehover.png
 ./static.png
+![Active:hover](./assets/images/activehover.png)
+![static](./assets/images/static.png)
